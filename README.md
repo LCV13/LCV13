@@ -1,16 +1,15 @@
-### Hi there 👋
+### console.log('Hello World!👋');
+![20200926_172750_0000](https://user-images.githubusercontent.com/58574759/94349931-a78db400-001f-11eb-9348-d62e062b61bb.png)
 
-<!--
-**LCV13/LCV13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Soy desarrolladora Web Front-End casi completamente autodidacta desde los 15 años. Mi filosofía en el trabajo consiste en mantener una postura agnóstica frente a las diferentes tecnologías y lenguajes de programación, entendiendolas como herramientas y viendo sus beneficios ante otras opciones dependiendo del problema que se quiera solucionar. <br>
+Estudio cosas nuevas y programo todos los días de la semana.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes/tecnologías que domino:
+* HTML5
+* CSS3
+* BOOTSTRAP4
+* MATERIALIZE
+* JQUERY
+* ES6
+* VUE 
+* GIT
