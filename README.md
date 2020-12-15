@@ -12,4 +12,4 @@ Lenguajes/tecnologías que domino:
 * JQUERY
 * ES6
 * VUE 
-*WordPress
+* WordPress
