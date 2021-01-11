@@ -11,5 +11,6 @@ Lenguajes/tecnologías que domino:
 * MATERIALIZE
 * JQUERY
 * ES6
+* React
 * VUE 
 * WordPress
