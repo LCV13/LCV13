@@ -14,3 +14,4 @@ Lenguajes/tecnologías que domino:
 * React
 * VUE 
 * WordPress
+* Styled Components
