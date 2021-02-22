@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Catalina</h1>
 <h3 align="center">Una apasionada desarrolladora Front-End de Argentina.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **NextJS**
+<!---- 🌱 Actualmente estoy aprendiendo **NextJS**-->
 
 - 👨‍💻Todos mis proyectos están disponibles en [https://github.com/LCV13](https://github.com/LCV13)
 
